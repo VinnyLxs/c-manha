@@ -1,0 +1,10 @@
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\bin\Debug\AppRever.exe.config
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\bin\Debug\AppRever.exe
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\bin\Debug\AppRever.pdb
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.csproj.AssemblyReference.cache
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.Properties.Resources.resources
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.View.TelaForm.resources
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.csproj.GenerateResource.cache
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.exe
+C:\Users\vinicius.ocosta3\source\repos\AppRever\AppRever\obj\Debug\AppRever.pdb
